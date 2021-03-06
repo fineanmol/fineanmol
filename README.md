@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 Flutter , API's creation!, and An agile approch to every solution. 
 
 ---
-Hi, I'm [Anmol Agarwal](), a Full Stack Developer 🚀 from India, currently. Beside's programming, I enjoy listening music and traveling.
+Hi, I'm [Anmol Agarwal](https://www.linkedin.com/in/fineanmol/), a Full Stack Developer 🚀 from India, currently. Beside's programming, I enjoy listening music and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -45,7 +45,7 @@ Hi, I'm [Anmol Agarwal](), a Full Stack Developer 🚀 from India, currently. Be
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@fineanmol](https://www.linkedin.com/in/fineanmol/);
+- 📫 How to reach me: [@fineanmol](https://www.google.com/search?sxsrf=ALeKk01ir2PPToiZJ2H0nLG2f_bDP3WNug%3A1615055125080&source=hp&ei=FclDYJvWAcSpmgey_IfYBw&iflsig=AINFCbYAAAAAYEPXJaBfWsAkBTqkkgMVa3k32cJcsju0&q=fineanmol&btnK=Google+Search);
 
 **Languages and Tools:**  
 
