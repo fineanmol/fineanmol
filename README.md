@@ -20,7 +20,7 @@
 
 ### About Me
 
-I'm a Full Stack Developer 🚀 from Uttarakhand, India. Besides programming, I enjoy traveling and listening to music.
+I'm a Full Stack Developer 🚀 from India. Besides programming, I enjoy traveling and listening to music.
 
 #### Talking about Personal Stuff:
 
