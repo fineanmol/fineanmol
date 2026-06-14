@@ -1,9 +1,9 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d16,30:1e1b4b,60:4c1d95,100:06b6d4&height=200&section=header&text=Anmol%20Agarwal&fontSize=52&fontColor=e2d9ff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%E2%80%A2%20React%20%2F%20TypeScript%20%E2%80%A2%20Berlin%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=58&descSize=16&descColor=94a3b8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d16,30:1e1b4b,60:4c1d95,100:06b6d4&height=200&section=header&text=Anmol%20Agarwal&fontSize=52&fontColor=e2d9ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%2F%20Vue%20%2F%20TypeScript%20%E2%80%A2%20Berlin%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=58&descSize=16&descColor=94a3b8" />
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&height=48&lines=Crafting+beautiful+UIs+that+humans+love+%F0%9F%8E%A8;React+%7C+TypeScript+%7C+Next.js+%7C+Vue;Pixel-perfect%2C+performant%2C+accessible+%E2%9C%A8;Open+Source+enthusiast+%26+Hacktoberfest+contributor+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&height=48&lines=Full+Stack+Developer+%F0%9F%9A%80+%7C+Berlin%2C+Germany;React+%7C+Vue+%7C+TypeScript+%7C+Next.js;Building+products+users+actually+love+%F0%9F%8E%A8;Open+Source+%26+Hacktoberfest+contributor+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <!-- STATUS + PROFILE VIEWS -->
@@ -60,13 +60,17 @@ I'm a **Full Stack Developer** from India 🇮🇳, currently living & working i
 
 <div align="center">
 
-### 🎨 Frontend — My Home Turf
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vue,vite,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vue,ts,js,nextjs,vite,html,css&theme=dark" />
 
-### 🛠️ Tools, Backend & Cloud
+### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,aws,docker,git,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,postgresql,redis&theme=dark" />
+
+### ☁️ Cloud, DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,figma,linux,vscode&theme=dark" />
 
 </div>
 
