@@ -1,25 +1,19 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              HEADER BANNER — capsule-render (GitHub safe)    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d16,30:1e1b4b,60:4c1d95,100:06b6d4&height=200&section=header&text=Anmol%20Agarwal&fontSize=52&fontColor=e2d9ff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%E2%80%A2%20React%20%2F%20TypeScript%20%E2%80%A2%20Berlin%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=58&descSize=16&descColor=94a3b8" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     TYPING ANIMATION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&height=48&lines=Crafting+beautiful+UIs+that+humans+love+%F0%9F%8E%A8;React+%7C+TypeScript+%7C+Next.js+%7C+Vue;Pixel-perfect+%2C+performant+%2C+accessible+%E2%9C%A8;Open+Source+enthusiast+%26+Hacktoberfest+contributor+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&height=48&lines=Crafting+beautiful+UIs+that+humans+love+%F0%9F%8E%A8;React+%7C+TypeScript+%7C+Next.js+%7C+Vue;Pixel-perfect%2C+performant%2C+accessible+%E2%9C%A8;Open+Source+enthusiast+%26+Hacktoberfest+contributor+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       STATUS BADGE                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- STATUS + PROFILE VIEWS -->
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Opportunities-Full--time%20%7C%20Freelance%20%7C%20Collabs-7c3aed?style=for-the-badge&labelColor=0d0d16" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=fineanmol&label=Profile%20Views&color=7c3aed&style=for-the-badge&labelColor=0d0d16" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       SOCIAL LINKS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/fineanmol/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -45,19 +39,18 @@
 
 ---
 
-## 🧠 What I Do
+## 🚀 About Me
 
-```js
-const anmol = {
-  title     : "Frontend Engineer",
-  location  : "Berlin, Germany 🇩🇪",
-  passion   : "Building interfaces so good, people notice when something's off",
-  stack     : ["React", "TypeScript", "Next.js", "Vue", "Node.js"],
-  crafting  : "Next-gen web apps & developer productivity tools",
-  openTo    : ["Full-time Roles", "Freelance", "Open Source Collabs"],
-  funFact   : "I debug CSS in my dreams 🎨",
-};
-```
+I'm a **Full Stack Developer** from India 🇮🇳, currently living & working in **Berlin, Germany** 🇩🇪. I build sleek, performant web applications and love turning complex problems into clean user experiences. Beyond code, I enjoy **traveling** ✈️ and **listening to music** 🎵.
+
+- 👨🏽‍💻 Currently working at **[Link11](https://www.link11.com/)** — Cybersecurity, Berlin
+- 🔐 Getting familiar with **Zero Trust Network** architecture 😉
+- 🌱 Deep-diving into **React Optimization** and **Next.js** solutions
+- 🌐 All about me at **[My Website](https://fineanmol.github.io/)**
+- 📝 Mostly working with **TypeScript, JavaScript, Python, Kotlin & Flutter**
+- 💬 Ask me about anything — I'm always happy to help!
+- 📫 Reach me: [@fineanmol](https://twitter.com/fineanmol)
+- 📄 My work & experiences: **[Resume](https://fineanmol.github.io/)**
 
 <br/>
 
@@ -99,12 +92,6 @@ const anmol = {
 
 <br/>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fineanmol&theme=tokyo-night&hide_border=true&bg_color=0d0d16&color=c4b5fd&line=7c3aed&point=06b6d4&area=true&area_color=7c3aed" />
-</div>
-
-<br/>
-
 ---
 
 ## 🏅 Holopin Board
@@ -117,14 +104,10 @@ const anmol = {
 
 <br/>
 
----
-
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4c1d95,100:0d0d16&height=100&section=footer&animation=fadeIn" />
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=fineanmol" alt="Visitors" />
-  &nbsp;
   <img src="https://img.shields.io/github/followers/fineanmol?label=Followers&style=flat&color=7c3aed&labelColor=0d0d16&logo=github" />
   <br/><br/>
   <sub><i>"I don't just build interfaces — I craft experiences." ✨</i></sub>
