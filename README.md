@@ -1,19 +1,15 @@
-<!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d16,30:1e1b4b,60:4c1d95,100:06b6d4&height=200&section=header&text=Anmol%20Agarwal&fontSize=52&fontColor=e2d9ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%2F%20Vue%20%2F%20TypeScript%20%E2%80%A2%20Berlin%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=58&descSize=16&descColor=94a3b8" />
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&height=48&lines=Full+Stack+Developer+%F0%9F%9A%80+%7C+Berlin%2C+Germany;React+%7C+Vue+%7C+TypeScript+%7C+Next.js;Building+products+users+actually+love+%F0%9F%8E%A8;Open+Source+%26+Hacktoberfest+contributor+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=640&height=48&lines=Building+products+users+actually+love+%F0%9F%8E%A8;React+%7C+Vue+%7C+TypeScript+%7C+Next.js;GraphQL+%7C+Node.js+%7C+AWS+Lambda;Open+Source+%26+Hacktoberfest+contributor+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<!-- STATUS + PROFILE VIEWS -->
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Opportunities-Full--time%20%7C%20Freelance%20%7C%20Collabs-7c3aed?style=for-the-badge&labelColor=0d0d16" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=fineanmol&label=Profile%20Views&color=7c3aed&style=for-the-badge&labelColor=0d0d16" />
+  <img src="https://komarev.com/ghpvc/?username=fineanmol&label=Profile%20Views&color=7c3aed&style=for-the-badge&labelColor=0d0d16&base=4218" />
 </p>
 
-<!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/fineanmol/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -41,16 +37,14 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** from India 🇮🇳, currently living & working in **Berlin, Germany** 🇩🇪. I build sleek, performant web applications and love turning complex problems into clean user experiences. Beyond code, I enjoy **traveling** ✈️ and **listening to music** 🎵.
+Full Stack Developer from India 🇮🇳, living and working in **Berlin, Germany** 🇩🇪. I enjoy turning complex problems into clean, performant user experiences. Outside of code I love traveling ✈️ and music 🎵.
 
-- 👨🏽‍💻 Currently working at **[Link11](https://www.link11.com/)** — Cybersecurity, Berlin
-- 🔐 Getting familiar with **Zero Trust Network** architecture 😉
-- 🌱 Deep-diving into **React Optimization** and **Next.js** solutions
-- 🌐 All about me at **[My Website](https://fineanmol.github.io/)**
-- 📝 Mostly working with **TypeScript, JavaScript, Python, Kotlin & Flutter**
-- 💬 Ask me about anything — I'm always happy to help!
-- 📫 Reach me: [@fineanmol](https://twitter.com/fineanmol)
-- 📄 My work & experiences: **[Resume](https://fineanmol.github.io/)**
+- 👨🏽‍💻 Working at **[Link11](https://www.link11.com/)**, a Cybersecurity company in Berlin
+- 🔐 Exploring **Zero Trust Network** architecture 😉
+- 🌱 Diving deep into **React Optimization** and **Next.js**
+- 💬 Ask me about anything, happy to help!
+- 📫 Reach me at [@fineanmol](https://twitter.com/fineanmol)
+- 🌐 **[Portfolio](https://fineanmol.github.io/)** · **[Resume](https://fineanmol.github.io/)**
 
 <br/>
 
@@ -58,24 +52,42 @@ I'm a **Full Stack Developer** from India 🇮🇳, currently living & working i
 
 ## ⚡ Tech Stack
 
-> 🔎 *Sourced directly from my repositories — no padding, no fluff.*
-
 <div align="center">
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,vue,ts,js,nextjs,vite,tailwind,html&theme=dark" />
+### 🎨 Frontend and Mobile
 
-### 📱 Mobile
-<img src="https://skillicons.dev/icons?i=react,kotlin,flutter,figma&theme=dark" />
-<br/><sub>React Native · Expo · Kotlin · Flutter</sub>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-1e2030?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e2030?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e2030?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-1e2030?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Tailwind](https://img.shields.io/badge/Tailwind-1e2030?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1e2030?style=for-the-badge&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-1e2030?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Kotlin](https://img.shields.io/badge/Kotlin-1e2030?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 
-### ⚙️ Backend & Data
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,redis,mongodb&theme=dark" />
-<br/><sub>Apollo Server · Serverless Framework · REST & GraphQL APIs</sub>
+### ⚙️ Backend and Data
 
-### ☁️ Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=aws,firebase,docker,jest,webpack,git&theme=dark" />
-<br/><sub>AWS Lambda · DynamoDB · SQS · Firebase · Playwright · Vitest · ESBuild · Puppeteer</sub>
+![Node.js](https://img.shields.io/badge/Node.js-1e2030?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1e2030?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-1e2030?style=for-the-badge&logo=graphql&logoColor=E10098)
+![Python](https://img.shields.io/badge/Python-1e2030?style=for-the-badge&logo=python&logoColor=3776AB)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e2030?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-1e2030?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Firebase](https://img.shields.io/badge/Firebase-1e2030?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+### ☁️ Cloud, DevOps and Tooling
+
+![AWS](https://img.shields.io/badge/AWS-1e2030?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-1e2030?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Serverless](https://img.shields.io/badge/Serverless-1e2030?style=for-the-badge&logo=serverless&logoColor=FD5750)
+![Jest](https://img.shields.io/badge/Jest-1e2030?style=for-the-badge&logo=jest&logoColor=C21325)
+![Playwright](https://img.shields.io/badge/Playwright-1e2030?style=for-the-badge&logo=playwright&logoColor=2EAD33)
+![Webpack](https://img.shields.io/badge/Webpack-1e2030?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
+![Git](https://img.shields.io/badge/Git-1e2030?style=for-the-badge&logo=git&logoColor=F05032)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-1e2030?style=for-the-badge&logo=puppeteer&logoColor=40B5A4)
 
 </div>
 
@@ -83,7 +95,7 @@ I'm a **Full Stack Developer** from India 🇮🇳, currently living & working i
 
 ---
 
-## 📊 GitHub at a Glance
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -113,11 +125,10 @@ I'm a **Full Stack Developer** from India 🇮🇳, currently living & working i
 
 <br/>
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4c1d95,100:0d0d16&height=100&section=footer&animation=fadeIn" />
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/fineanmol?label=Followers&style=flat&color=7c3aed&labelColor=0d0d16&logo=github" />
   <br/><br/>
-  <sub><i>"I don't just build interfaces — I craft experiences." ✨</i></sub>
+  <sub><i>"I don't just write code. I craft experiences." ✨</i></sub>
 </div>
