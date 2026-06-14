@@ -58,19 +58,24 @@ I'm a **Full Stack Developer** from India 🇮🇳, currently living & working i
 
 ## ⚡ Tech Stack
 
+> 🔎 *Sourced directly from my repositories — no padding, no fluff.*
+
 <div align="center">
 
 ### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,vue,ts,js,nextjs,vite,tailwind,html&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=react,vue,ts,js,nextjs,vite,html,css&theme=dark" />
+### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=react,kotlin,flutter,figma&theme=dark" />
+<br/><sub>React Native · Expo · Kotlin · Flutter</sub>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & Data
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,redis,mongodb&theme=dark" />
+<br/><sub>Apollo Server · Serverless Framework · REST & GraphQL APIs</sub>
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,postgresql,redis&theme=dark" />
-
-### ☁️ Cloud, DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,figma,linux,vscode&theme=dark" />
+### ☁️ Cloud, DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=aws,firebase,docker,jest,webpack,git&theme=dark" />
+<br/><sub>AWS Lambda · DynamoDB · SQS · Firebase · Playwright · Vitest · ESBuild · Puppeteer</sub>
 
 </div>
 
